@@ -1,2 +1,3 @@
-# info2180-lab5
-Lab 5 Submission for INFO2180 - Intro to Web Dev
+# INFO2180 Lab 5
+
+This is Lab 5 for Joseph Udoudo on PHP and MySQL
