@@ -67,3 +67,28 @@ main {
     background: #fafafa;
     font-size: 16px;
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse; 
+    margin-top: 20px;
+    font-size: 16px;
+    background: white;
+}
+
+th {
+    background: #2a6fdb;
+    color: white;
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #a7a7a7; 
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #a7a7a7; 
+}
+
+tr:nth-child(even) {
+    background: #f7f9ff;
+}
